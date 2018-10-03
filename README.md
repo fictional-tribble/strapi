@@ -5,6 +5,8 @@
 
 ---
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/strapi.svg)](https://www.staging.guardrails.io)
+
 <p align="center">
   <a href="https://strapi.io">
     <img src="https://blog.strapi.io/content/images/2017/10/logo.png" width="318px" alt="Strapi logo" />
